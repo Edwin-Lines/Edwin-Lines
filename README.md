@@ -1,7 +1,8 @@
 ### Hi there, I'm Edwin 👋:headphones:
 
 <!-- 🔭 I’m currently working on -->
-- 🌱 I’m currently learning Scientific Computing with Python
+- 🌱 I’m currently learning:
+  - Game Development (Unity and C#)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
