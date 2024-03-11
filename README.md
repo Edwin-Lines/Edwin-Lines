@@ -1,4 +1,4 @@
-### Hi there, I'm Edwin 👋:headphones:
+### Hi there, I'm Edwin 👋 :headphones:
 
 <!-- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning:
